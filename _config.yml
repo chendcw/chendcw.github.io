@@ -1,0 +1,78 @@
+# _config.yml
+
+# 站点基本信息
+title: "My Knowledge Hub"
+author: "[Your Name]"
+email: "your.email@example.com"
+description: "Personal knowledge repository and CV - [Your Name]"
+baseurl: "" # 如果站点不在根目录，请填写子路径
+url: "https://yourusername.github.io" # 替换为您的GitHub Pages地址
+github_username: yourusername # 替换为您的GitHub用户名
+
+# 构建设置
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# 导航菜单设置 (模仿示例页面的结构)
+header_pages:
+  - index.md
+  - 01-clinical-experience.md
+  - 02-sample-size.md
+  - 03-study-design.md
+  - 04-data-visualization.md
+  - 05-statistical-analysis.md
+  - 06-machine-learning.md
+  - 08-cv.md
+  - contact.md
+
+# 主题颜色和样式设置 (可选)
+theme: minima # 使用Jekyll默认主题
+
+# 自定义变量
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Clinical Experience"
+    url: "/01-clinical-experience.html"
+  - title: "Sample Size"
+    url: "/02-sample-size.html"
+  - title: "Study Design"
+    url: "/03-study-design.html"
+  - title: "Data Visualization"
+    url: "/04-data-visualization.html"
+  - title: "Statistical Analysis"
+    url: "/05-statistical-analysis.html"
+  - title: "Machine Learning"
+    url: "/06-machine-learning.html"
+  - title: "CV"
+    url: "/08-cv.html"
+  - title: "Contact me"
+    url: "/contact.html"
+
+# 社交链接
+social_links:
+  github: yourusername # 替换为您的GitHub用户名
+  email: your.email@example.com
+
+# 排除文件
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# 默认页面设置
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      show_header: true
+      show_footer: true
