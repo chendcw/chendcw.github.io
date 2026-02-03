@@ -2,12 +2,12 @@
 
 # 站点基本信息
 title: "My Knowledge Hub"
-author: "[Your Name]"
-email: "your.email@example.com"
-description: "Personal knowledge repository and CV - [Your Name]"
+author: "[Shan Gao]"
+email: "gaoshan442475397@gmail.com"
+description: "Personal knowledge repository and CV - [Shan Gao]"
 baseurl: "" # 如果站点不在根目录，请填写子路径
-url: "https://yourusername.github.io" # 替换为您的GitHub Pages地址
-github_username: yourusername # 替换为您的GitHub用户名
+url: "https://chendcw.github.io" # 替换为您的GitHub Pages地址
+github_username: chendcw # 替换为您的GitHub用户名
 
 # 构建设置
 markdown: kramdown
