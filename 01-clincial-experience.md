@@ -12,43 +12,48 @@ nav_order: 1
 
 ### 1. Oncology
 - **Project Experience**:
-  - Phase III randomized controlled trial in breast cancer (N=1200)
+  - Phase III randomized controlled trial in NSCLC (N=336)
   - Biomarker sub-study in NSCLC using NGS data
-  - Real-world evidence study in prostate cancer
 - **Key Methodologies**:
   - Survival analysis (Kaplan-Meier, Cox PH models)
   - Tumor response evaluation (RECIST 1.1)
   - Time-to-event endpoints (PFS, OS)
 
-### 2. Cardiovascular Diseases
+### 2. Chronic Kidney Diseases
 - **Project Experience**:
-  - Post-MI outcomes study (multicenter, international)
-  - Hypertension medication adherence research
-  - AFib ablation registry analysis
+  - Real World Study & Pragmatic Clinical Trials 
+  - 
+  - 
 - **Key Methodologies**:
   - Longitudinal data analysis
   - Propensity score matching
   - Composite endpoint evaluation
 
-### 3. Neurology
+### 3. Women’s Health
 - **Project Experience**:
-  - Alzheimer's disease prevention trial
-  - Parkinson's disease symptom progression
-  - MS relapse rate analysis
+  - Fezolinetant in vasomotor symptoms associated with Menopause
+  - Phase II dose-finding study and Phase IIIlong term safety
+  - 
 - **Key Methodologies**:
   - Mixed models for repeated measures
+
+### 4. Rare Disease
+- **Project Experience**:
+  - DMD with electronic wearable devices and qualitative assessment
+  - Phase I
+- **Key Methodologies**:
   - Cognitive assessment scoring
   - Missing data imputation
 
-### 4. Infectious Diseases
+### 5. Infectious Diseases
 - **Project Experience**:
-  - Vaccine efficacy trial (Phase II/III)
+  - Predicting CLABSI using EHR data (retrospective observational study)
   - Antimicrobial resistance patterns
   - COVID-19 treatment outcomes
 - **Key Methodologies**:
-  - Immunogenicity analysis
-  - Viral load modeling
-  - Cluster-randomized designs
+  - Identifying CLABSI using automation algorithm for surveillance of infection
+  - Dynamic prediction using landmark approach
+  - Assess model performance using discrimnation, calibration and clinical utility
 
 ## Clinical Trial Expertise
 
