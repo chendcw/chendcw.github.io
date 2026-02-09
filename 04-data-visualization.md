@@ -13,5 +13,6 @@ nav_order: 4
 ### 1. Survival Analysis
 - KM curve
 - cumulative incidence
-### 2. Go/No Go Tool
+### 2. Decision Curve Analysis
+### 3. Go/No Go Tool
 - R shiny
