@@ -1,6 +1,6 @@
 ---
 
-## 📜 Qualification & Certificates
+## 📜 Homepage
 
 ### Professional Certifications
 - **SAS Certified Advanced Programmer**
