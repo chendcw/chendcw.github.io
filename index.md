@@ -31,17 +31,33 @@ nav_order: 1
 
 ---
 
-## How to Reach me
+## 📫 How to Reach me
+
+<div class="contact-grid">
+  <div class="contact-item">
+    <strong>Email:</strong> gaoshan442475397@gmail.com
+  </div>
+  <div class="contact-item">
+    <strong>LinkedIn:</strong> [Your LinkedIn Profile]
+  </div>
+  <div class="contact-item">
+    <strong>GitHub:</strong> [chendcw]
+  </div>
+  <div class="contact-item">
+    <strong>ORCID:</strong> [Your ORCID ID]
+  </div>
+</div>
+
 
 ---
 
 ## 🔧 Skill Set
 | Property | Data |
 |----------|------|
-| **Language / IDE** | <span class="badge">Python</span> <span class="badge">R</span> <span class="badge">SAS</span> <span class="badge">SQL</span> <span class="badge">Jupyter</span> <span class="badge">RStudio</span> |
+| **Language / IDE** | <span class="badge">R</span> <span class="badge">SAS</span> <span class="badge">RStudio</span> |
 | **Domain Knowledge** | <span class="badge">Statistical Analysis</span> <span class="badge">Sample Size Calculation</span> <span class="badge">CDISC Standards</span> <span class="badge">Machine Learning</span> <span class="badge">Survival Analysis</span> <span class="badge">Clinical Trials</span> |
 | **CI / CD** | <span class="badge">Markdown</span> <span class="badge">GitHub</span> <span class="badge">GitHub Actions</span> <span class="badge">Docker</span> <span class="badge">Reproducible Research</span> |
-| **Machine Learning / Deep Learning Frameworks** | <span class="badge">Scikit-learn</span> <span class="badge">TensorFlow</span> <span class="badge">PyTorch</span> <span class="badge">Caret</span> <span class="badge">Tidymodels</span> <span class="badge">XGBoost</span> |
+| **Machine Learning / Deep Learning Frameworks** | <span class="badge">Scikit-learn</span> <span class="badge">TensorFlow</span> <span class="badge">Caret</span> <span class="badge">Tidymodels</span> <span class="badge">XGBoost</span> |
 
 ---
 
