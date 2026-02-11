@@ -1,11 +1,10 @@
 ---
 
-## 📜 Homepage
+## Homepage
 
 ### Professional Certifications
 - **SAS Certified Advanced Programmer**
-- **R Programming Certification** - Johns Hopkins University
-- **Clinical Research Associate Certification**
+- **R Programming Certification** 
 - **Good Clinical Practice (GCP) Certified**
 
 ### Statistical Methodology
