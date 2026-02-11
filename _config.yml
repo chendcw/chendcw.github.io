@@ -18,7 +18,7 @@ plugins:
 
 # 导航菜单设置 (模仿示例页面的结构)
 header_pages:
-  - homepage.md
+  - index.md
   - 01-clinical-experience.md
   - 02-sample-size.md
   - 03-study-design.md
