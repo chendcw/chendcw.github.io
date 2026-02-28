@@ -1,77 +1,10 @@
----
-layout: default
-title: Homepage
-nav_order: 1
----
+# How to contact me
 
-## Welcome to my profile
+Feel free to reach out using any of the following contact options:
 
-### As a biostatistician with extensive experience in providing statistical input into Phase I-III clinical trials and real world studies, I seek to bring a dynamic combination of education and expertise to an industry-leading employer. My professional background includes participating in multiple international clinical trials across diverse medical fields including Chronic Kidney Diseases, Infections Diseases, and Oncology.
+- **Email**: [your_email@example.com](mailto:your_email@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- **GitHub**: [Your GitHub Profile](https://github.com/chendcw)
+- **ORCID**: [Your ORCID Profile](https://orcid.org/your-orcid-id)
 
-### I am skilled in data management, mathematical modeling, survival analysis, and longitudinal data analysis. My project management capabilities are well-honed, making me a diligent and goal-oriented professional ready to make an immediate impact on any fast-paced team. Anchored in solid statistical knowledge and an aggressive approach to problem-solving, I maintain a conscientious and responsible work ethic to guarantee high-quality deliverables.
-
-{: .profile-photo }
-
-### Professional Certifications
-- **SAS Certified Advanced Programmer**
-- **R Programming Certification** 
-- **Good Clinical Practice (GCP) Certified**
-
-### Statistical Methodology
-- Advanced Survival Analysis Workshop
-- Bayesian Methods in Clinical Trials
-- Machine Learning for Healthcare Applications
-- Adaptive Clinical Trial Designs
-
-### Recent Training
-- FDA/EMA Regulatory Guidelines (2024)
-- AI/ML in Drug Development
-- Real-World Evidence Analytics
-- Patient-Reported Outcomes Analysis
-
----
-
-## 📫 How to Reach me
-
-<div class="contact-grid">
-  <div class="contact-item">
-    <strong>Email:</strong> gaoshan442475397@gmail.com
-  </div>
-  <div class="contact-item">
-    <strong>LinkedIn:</strong> [Your LinkedIn Profile]
-  </div>
-  <div class="contact-item">
-    <strong>GitHub:</strong> [chendcw]
-  </div>
-  <div class="contact-item">
-    <strong>ORCID:</strong> [Your ORCID ID]
-  </div>
-</div>
-
-
----
-
-## 🔧 Skill Set
-| Property | Data |
-|----------|------|
-| **Language / IDE** | <span class="badge">R</span> <span class="badge">SAS</span> <span class="badge">RStudio</span> |
-| **Domain Knowledge** | <span class="badge">Statistical Analysis</span> <span class="badge">Sample Size Calculation</span> <span class="badge">CDISC Standards</span> <span class="badge">Machine Learning</span> <span class="badge">Survival Analysis</span> <span class="badge">Clinical Trials</span> |
-| **CI / CD** | <span class="badge">Markdown</span> <span class="badge">GitHub</span> <span class="badge">GitHub Actions</span> <span class="badge">Docker</span> <span class="badge">Reproducible Research</span> |
-| **Machine Learning / Deep Learning Frameworks** | <span class="badge">Scikit-learn</span> <span class="badge">TensorFlow</span> <span class="badge">Caret</span> <span class="badge">Tidymodels</span> <span class="badge">XGBoost</span> |
-
----
-
-## 🎯 Professional Focus Areas
-
-### Therapeutic Expertise
-- **Oncology**: Solid tumors, hematologic malignancies
-- **Neurology**: Alzheimer's, Parkinson's, MS
-- **Cardiovascular**: Hypertension, Heart Failure, AFib
-- **Rare Diseases**: Orphan drug development
-
-### Statistical Methodologies
-- Mixed Effects Models
-- Time-to-Event Analysis
-- Multiple Imputation Techniques
-- Adaptive Trial Designs
-- Biomarker Validation
+Looking forward to connecting!
